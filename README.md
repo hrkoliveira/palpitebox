@@ -4,7 +4,7 @@
 
 Este projeto foi construído durante a Semana Fullstack Master do [DevPleno](https://devpleno.com). Uma versão online deste projeto pode ser encontrada em: https://palpitebox-hrkoliveira.vercel.app.
 
-![Preview]![image](https://user-images.githubusercontent.com/55418492/170154969-b4df59ec-b1fc-40ea-a2b0-2beed679abe2.png)
+![image](https://user-images.githubusercontent.com/55418492/170154969-b4df59ec-b1fc-40ea-a2b0-2beed679abe2.png)
 
 ## Início
 
